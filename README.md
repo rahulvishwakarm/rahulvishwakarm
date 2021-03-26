@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulvishwakarm
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Bsc in Information technology
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me rahulvishwakarma6189@gmail.com
 
 <!---
