@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulvishwakarm
+- 👋 Hi, I’m Rahul Vishwakarma
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Bsc in Information technology
 - 💞️ I’m looking to collaborate on Software Engineering
