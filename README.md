@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Vishwakarma
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Bsc in Information technology
+- 🌱 I’m currently learning Bachelor in Information technology
 - 💞️ I’m looking to collaborate in Software Engineering
 - 📫 How to reach me rahulvishwakarma6189@gmail.com
 
