@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Vishwakarma
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Bachelor in Information technology
-- 💞️ I’m looking to collaborate in MERN Stack and DSA
+- 💞️ I’m looking to collaborate in MERN Stack and Problem Solving
 - 📫 How to reach me rahulvishwakarma6189@gmail.com
 
 <!---
