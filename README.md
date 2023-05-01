@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Vishwakarma
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Bachelor in Information technology
+- 👀 I’m Full Stack Software Developer
+- 🌱 I’m currently pursuing Master's Of Computer Application
 - 💞️ I’m looking to collaborate in MERN Stack and Problem Solving
 - 📫 How to reach me rahulvishwakarma6189@gmail.com
 
